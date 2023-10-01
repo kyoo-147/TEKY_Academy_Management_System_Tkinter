@@ -1,0 +1,28 @@
+{
+    "Stu_Course": [
+        {
+            "Rollno": "1",
+            "CourseID": "BLG"
+        },
+        {
+            "Rollno": "2",
+            "CourseID": "SNLTW"
+        },
+        {
+            "Rollno": "1",
+            "CourseID": "SNLTW"
+        },
+        {
+            "Rollno": "3",
+            "CourseID": "MMCN"
+        },
+        {
+            "Rollno": "2",
+            "CourseID": "MMCN"
+        },
+        {
+            "Rollno": "1",
+            "CourseID": "MMCN"
+        }
+    ]
+}

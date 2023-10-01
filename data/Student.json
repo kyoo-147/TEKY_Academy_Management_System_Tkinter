@@ -1,0 +1,76 @@
+{
+    "Students": [
+        {
+            "Rollno": "1",
+            "Name": "Nguy\u1ec5n V\u0103n A",
+            "Gender": "Female",
+            "address": "B\u00ecnh D\u01b0\u01a1ng",
+            "Phone no": "234324324",
+            "Batch": "Th\u00e1ng 9",
+            "Hostel": true
+        },
+        {
+            "Rollno": "2",
+            "Name": "Nguy\u1ec5n V\u0103n B",
+            "Gender": "Male",
+            "address": "H\u1ea3i Ph\u00f2ng",
+            "Phone no": "666999",
+            "Batch": "Th\u00e1ng 5",
+            "Hostel": true
+        },
+        {
+            "Rollno": "3",
+            "Name": "Nguy\u1ec5n V\u0103n C",
+            "Gender": "Male",
+            "address": "Ph\u00fa Th\u1ecd",
+            "Phone no": "67652343",
+            "Batch": "Th\u00e1ng 10",
+            "Hostel": false
+        },
+        {
+            "Rollno": "4",
+            "Name": "Nguy\u1ec5n V\u0103n D",
+            "Gender": "Female",
+            "address": "Th\u00e1i B\u00ecnh",
+            "Phone no": "3412321",
+            "Batch": "Th\u00e1ng 5",
+            "Hostel": true
+        },
+        {
+            "Rollno": "5",
+            "Name": "B\u00f9i Minh C\u01b0\u1eddng",
+            "Gender": "Male",
+            "address": "Universe",
+            "Phone no": "123456789",
+            "Batch": "Th\u00e1ng 7",
+            "Hostel": true
+        },
+        {
+            "Rollno": "6",
+            "Name": "Elon Musk",
+            "Gender": "Male",
+            "address": "South Africa",
+            "Phone no": "999999",
+            "Batch": "Th\u00e1ng 1",
+            "Hostel": false
+        },
+        {
+            "Rollno": "7",
+            "Name": "Nguy\u1ec5n V\u0103n E",
+            "Gender": "Female",
+            "address": "T\u00e2y Ninh",
+            "Phone no": "54643543",
+            "Batch": "Th\u00e1ng 8",
+            "Hostel": true
+        },
+        {
+            "Rollno": "13",
+            "Name": "Minh Cuong",
+            "Gender": "Male",
+            "address": "Dong Nai",
+            "Phone no": "0365646109",
+            "Batch": "Th\u00e1ng 3",
+            "Hostel": true
+        }
+    ]
+}

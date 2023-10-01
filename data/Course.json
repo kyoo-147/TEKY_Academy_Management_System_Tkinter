@@ -1,0 +1,24 @@
+{
+    "Courses": [
+        {
+            "CourseID": "SNLTW",
+            "CourseName": "T\u00ednh \u0110i\u1ec3m Trung B\u00ecnh"
+        },
+        {
+            "CourseID": "MMCN",
+            "CourseName": "Ng\u01b0\u1eddi b\u1ea1n Robot"
+        },
+        {
+            "CourseID": "KPRB",
+            "CourseName": "Cu\u1ed9c \u0111\u01b0a \u00f4 t\u00f4 \u0111i\u1ec7n"
+        },
+        {
+            "CourseID": "SNLTW",
+            "CourseName": "Phan Mem Tinh Diem Trung Binh"
+        },
+        {
+            "CourseID": "",
+            "CourseName": ""
+        }
+    ]
+}
